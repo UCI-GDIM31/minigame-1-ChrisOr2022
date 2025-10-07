@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Write your Devlog here.
+Well, if we used the "building blocks" metaphor in class to describe the relationship between components, game objects, and scenes, then I would most likely substitute it with another metaphor such as the first page of lego bricks when building a lego set, or in this case, to move on to the next phase or page of the instructions book to eventually complete the lego build. So, technically, my metaphor for "building blocks" would be the "first page of a lego set" since alone it isn't much, but when used together with all the other pages, it becomes something that works and fits all together. Another way I would describe this metaphor with all three relationships would basically be a lego instructions booklet, because all are necesarry and build off of each other to make a game work, and seperately, they are only the pages that fill the book, but only partially, so still, one without the other wouldn't work, just like the lego instructions booklet. The last thing I can possibly connect these lego metaphors I'm trying to explain are the components, game objects, and scenes all being one third of a lego set, not one third of the pages of the lego instruction booklet. 
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
